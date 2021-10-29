@@ -10,6 +10,7 @@ const styles = StyleSheet.create({
 	bgImage: {
 		width: 400,
 		height: 350,
+		marginBottom: 40,
 	},
 	TextInput: {
 		height: 50,
@@ -20,10 +21,10 @@ const styles = StyleSheet.create({
 	inputView: {
 		backgroundColor: "#FFC0CB",
 		borderRadius: 30,
-
 		height: 45,
 		marginBottom: 20,
 		alignItems: "center",
+		width: "70%",
 	},
 	forgot_button: {
 		height: 30,
