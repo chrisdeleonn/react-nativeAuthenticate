@@ -32,10 +32,10 @@ export default function App() {
 			</View>
 
 			<TouchableOpacity>
-				<Text style={styles.forgot_button}>Forgot Password?</Text>
+				<Text style={styles.forgot_Btn}>Forgot Password?</Text>
 			</TouchableOpacity>
 
-			<TouchableOpacity style={styles.loginBtn}>
+			<TouchableOpacity style={styles.login_Btn}>
 				<Text style={styles.loginText}>LOGIN</Text>
 			</TouchableOpacity>
 		</View>

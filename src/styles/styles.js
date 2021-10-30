@@ -26,11 +26,11 @@ const styles = StyleSheet.create({
 		alignItems: "center",
 		width: "70%",
 	},
-	forgot_button: {
+	forgot_Btn: {
 		height: 30,
 		marginBottom: 30,
 	},
-	loginBtn: {
+	login_Btn: {
 		width: "80%",
 		borderRadius: 25,
 		height: 50,
